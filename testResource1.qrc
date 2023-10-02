@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefixTest">
+        <file alias="BGlogo">GoldLogo.bmp</file>
+        <file alias="DGLogo">DGlennLogoSmall2.png</file>
+        <file alias="VLine">stylesheet-vline.png</file>
+        <file alias="branch-end">stylesheet-branch-end.png</file>
+        <file alias="branch-more">stylesheet-branch-more.png</file>
+        <file alias="branch-closed">stylesheet-branch-closed.png</file>
+        <file alias="branch-open">stylesheet-branch-open.png</file>
+    </qresource>
+</RCC>
